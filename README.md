@@ -23,5 +23,5 @@ Sistema de autenticação com validação de dados, armazenamento local e navega
 ## 📸 Preview
 <p align="center">
   <img src="LINK_LOGIN" width="400"/>
-  <img src="LINK_DASHBOARD" width="400"/>
+  <img src="https://github.com/vivi472/login-system/blob/main/dashboard.png" width="400"/>
 </p>
