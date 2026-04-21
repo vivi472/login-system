@@ -22,10 +22,11 @@ Sistema de autenticação com validação de dados, armazenamento local e navega
 
 ## 📸 Preview
 
-## 📸 Preview
-
 ### 🔐 Tela de Login
-![Login](https://raw.githubusercontent.com/vivi472/login-system/main/login%20v%C3%A1lido.png)
+![Login](https://raw.githubusercontent.com/vivi472/login-system/main/login.png)
+
+### 🔐 Login com dados preenchidos
+![Login válido](https://raw.githubusercontent.com/vivi472/login-system/main/login%20v%C3%A1lido.png)
 
 ### 🏠 Dashboard
 ![Dashboard](https://raw.githubusercontent.com/vivi472/login-system/main/dashboard.png)
