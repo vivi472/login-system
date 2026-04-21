@@ -1,31 +1,32 @@
-# 🔐 Sistema de Login com Dashboard
+# 🔐 Login System with Dashboard
 
-## 📌 Sobre
-Sistema de autenticação com validação de dados, armazenamento local e navegação entre páginas.
+## 📌 About
+Authentication system with validation and navigation between pages.
 
-## 🚀 Funcionalidades
-- Login com validação
-- Mostrar/ocultar senha
-- Dashboard com usuário logado
-- Logout
-- Persistência com localStorage
+## 🎯 Objective
+Simulate a real login system with user validation and navigation flow.
 
-## 🛠️ Tecnologias
+## 💡 Highlights
+- User authentication simulation
+- Data persistence with localStorage
+- Responsive UI
+
+## 🛠️ Technologies
 - HTML
 - CSS
 - JavaScript
 
-## 🔑 🔐 LOGIN PARA TESTE
+## 🔑 🔐 TEST LOGIN
 
 - Email: admin@email.com
-- Senha: 1234
+- Password: 1234
 
 ## 📸 Preview
 
-### 🔐 Tela de Login
+### 🔐 Login Screen
 ![Login](https://raw.githubusercontent.com/vivi472/login-system/main/login.png)
 
-### 🔐 Login com dados preenchidos
+### 🔐 Login with completed data
 ![Login válido](https://raw.githubusercontent.com/vivi472/login-system/main/login%20v%C3%A1lido.png)
 
 ### 🏠 Dashboard
