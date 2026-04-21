@@ -21,8 +21,12 @@ Sistema de autenticação com validação de dados, armazenamento local e navega
 - Senha: 1234
 
 ## 📸 Preview
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vivi472/login-system/main/login.png" width="400"/>
-  <img src="https://raw.githubusercontent.com/vivi472/login-system/main/dashboard.png" width="400"/>
-  <img src="https://raw.githubusercontent.com/vivi472/login-system/main/login%20v%C3%A1lido.png" width="400"/>
-</p>
+
+### 🔐 Tela de Login
+![Login](https://raw.githubusercontent.com/vivi472/login-system/main/login.png)
+
+### 🔐🖥️ Dashboard
+![Dashboard](https://raw.gitusercontent.com/vivi472/login-system/main/dashboard.png).
+
+### 🔐✅️ Login Válido
+![Login Válido](https://raw.gitusercontent.com/vivi472/login-system/main/login%20v%C3%A1lido.png)
